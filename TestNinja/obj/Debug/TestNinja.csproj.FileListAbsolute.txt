@@ -1,0 +1,43 @@
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/TestNinja.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/TestNinja.pdb
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/obj/Debug/TestNinja.csprojResolveAssemblyReference.cache
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/obj/Debug/TestNinja.csproj.CoreCompileInputs.cache
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/obj/Debug/TestNinja.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/obj/Debug/TestNinja.pdb
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/TestNinja.dll.config
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.dll
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.xml
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.xml
+/Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.xml
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\source-code-starter\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\source-code-starter\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.AssemblyReference.cache
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\STUDIA\Informatyka i ekonometria\semestr 4\Testowanie aplikacji [w] i [lab]\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\STUDIA\Informatyka i ekonometria\semestr 4\Testowanie aplikacji [w] i [lab]\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\STUDIA\Informatyka i ekonometria\semestr 4\Testowanie aplikacji [w] i [lab]\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\STUDIA\Informatyka i ekonometria\semestr 4\Testowanie aplikacji [w] i [lab]\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\STUDIA\Informatyka i ekonometria\semestr 4\Testowanie aplikacji [w] i [lab]\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\STUDIA\Informatyka i ekonometria\semestr 4\Testowanie aplikacji [w] i [lab]\source-code-starter\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\STUDIA\Informatyka i ekonometria\semestr 4\Testowanie aplikacji [w] i [lab]\source-code-starter\TestNinja\TestNinja\bin\Debug\nunit.framework.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\STUDIA\Informatyka i ekonometria\semestr 4\Testowanie aplikacji [w] i [lab]\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\STUDIA\Informatyka i ekonometria\semestr 4\Testowanie aplikacji [w] i [lab]\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\STUDIA\Informatyka i ekonometria\semestr 4\Testowanie aplikacji [w] i [lab]\source-code-starter\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\STUDIA\Informatyka i ekonometria\semestr 4\Testowanie aplikacji [w] i [lab]\source-code-starter\TestNinja\TestNinja\bin\Debug\nunit.framework.xml
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\STUDIA\Informatyka i ekonometria\semestr 4\Testowanie aplikacji [w] i [lab]\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.AssemblyReference.cache
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\STUDIA\Informatyka i ekonometria\semestr 4\Testowanie aplikacji [w] i [lab]\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\STUDIA\Informatyka i ekonometria\semestr 4\Testowanie aplikacji [w] i [lab]\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\STUDIA\Informatyka i ekonometria\semestr 4\Testowanie aplikacji [w] i [lab]\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Users\Justyna\OneDrive - University of Gdansk (for Students)\Pulpit\STUDIA\Informatyka i ekonometria\semestr 4\Testowanie aplikacji [w] i [lab]\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
